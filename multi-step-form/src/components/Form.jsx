@@ -25,12 +25,6 @@ const Form = ({page, setPage, formData, setFormData }) => {
         else {setPage(page + 1)}
         }
 
-    
-
-    
-
-    
-        
     return (
     <div>
         <form className='ml-10' onSubmit={handleSubmit}>

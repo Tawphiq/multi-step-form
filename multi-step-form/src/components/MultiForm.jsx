@@ -56,17 +56,9 @@ const MultiForm = () => {
       ) 
       
     }
-    
+    }
 
-    
-  }
-
-
-
-  
-
-
-  return (
+return (
     <div className='bg-blue-100 h-screen'>
       <div className='flex justify-center'>
         <div className='bg-white mt-10 shadow-lg'>

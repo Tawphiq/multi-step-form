@@ -45,8 +45,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [multi-step-form](https://delicate-valkyrie-800c90.netlify.app/)
 
 ## My process
 
@@ -55,6 +54,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
+- Vite
 - [React](https://reactjs.org/) - JS library
 - Tailwindcss
 
@@ -62,3 +62,4 @@ Users should be able to:
 ## Author
 - Frontend Mentor - [@Tawphiq](https://www.frontendmentor.io/profile/Tawphiq)
 - Twitter - [@iddrisu_tawfiq](https://www.twitter.com/iddrisu_tawfiq)
+- LinkedIn - [Mohammed Tawfiq Iddrisu](https://www.linkedin.com/in/mohammed-tawfiq-iddrisu-6469171b9/)
